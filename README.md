@@ -37,3 +37,9 @@ rebind script to put the new module in control of the device:
 
     # ./rebind
 
+
+
+Unknown if this is the correct way but I loaded the modules on Arch Linux with
+
+    # depmod -a
+    # modprobe hid-g19
