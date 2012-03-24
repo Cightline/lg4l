@@ -51,5 +51,7 @@ Make it easily accessable
     
     
 I have also added the following to my /etc/rc.local
+
     # bash /usr/bin/rebind
+    
     
