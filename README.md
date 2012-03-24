@@ -47,6 +47,6 @@ Unknown if this is the correct way but I loaded the modules on Arch Linux with
 Make it easily accessable
     # cp rebind /usr/bin/rebind
     # chmod +x /usr/bin/rebind
-
+    
 I have also added the following to my /etc/rc.local
     # bash /usr/bin/rebind
